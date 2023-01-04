@@ -1,0 +1,68 @@
+[
+  {
+    "programName": "Collect sea garbage",
+    "image": "lib/images/sea_pollution.jpg",
+    "left": "9",
+    "percent": 0.53,
+    "collectedMoney": "5300",
+    "totalMoney": "10000",
+    "supporters": "67",
+    "project": "COLLECT GARBAGE",
+    "title": "Bali, 'Plastic island' a real emergency"
+  },
+  {
+    "programName": "Save the Amazon right now",
+    "image": "lib/images/save_amazon.jpg",
+    "left": "12",
+    "percent": 0.7,
+    "collectedMoney": "10500",
+    "totalMoney": "15000",
+    "supporters": "109",
+    "project": "SAVE AMAZON",
+    "title": "South Sudan,'village student' waiting for support"
+  },
+  {
+    "programName": "Let's build their school",
+    "image": "lib/images/student.jpg",
+    "left": "2",
+    "percent": 0.69,
+    "collectedMoney": "6900",
+    "totalMoney": "10000",
+    "supporters": "92",
+    "project": "BUILD SCHOOL",
+    "title": "South Sudan,'village student' waiting for support"
+  },
+  {
+    "programName": "Home for homeless people",
+    "image": "lib/images/homeless.jpg",
+    "left": "5",
+    "percent": 0.78,
+    "collectedMoney": "7800",
+    "totalMoney": "10000",
+    "supporters": "102",
+    "project": "BUILD HOUSE",
+    "title": "South Sudan,'village student' waiting for support"
+  },
+  {
+    "programName": "Help for refugees people",
+    "image": "lib/images/help_refugees.jpg",
+    "left": "8",
+    "percent": 0.62,
+    "collectedMoney": "7320",
+    "totalMoney": "12000",
+    "supporters": "85",
+    "project": "HELP REFUGEE",
+    "title": "South Sudan,'village student' waiting for support"
+  },
+  {
+    "programName": "Help to hungry people",
+    "image": "lib/images/food_program.jpg",
+    "left": "15",
+    "percent": 0.48,
+    "collectedMoney": "3900",
+    "totalMoney": "8000",
+    "supporters": "62",
+    "project": "SEND FOOD",
+    "title": "South Sudan,'village student' waiting for support"
+  }
+]

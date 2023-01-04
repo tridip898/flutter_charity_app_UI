@@ -1,0 +1,35 @@
+[
+  {
+    "programName": "Let's build their school",
+    "image": "lib/images/student.jpg",
+    "left": "2",
+    "percent": 0.69,
+    "collectedMoney": "6900",
+    "totalMoney": "10000",
+    "supporters": "92",
+    "project": "BUILD SCHOOL",
+    "title": "South Sudan, 'Village Student' waiting for support"
+  },
+  {
+    "programName": "Home for homeless people",
+    "image": "lib/images/homeless.jpg",
+    "left": "5",
+    "percent": 0.78,
+    "collectedMoney": "7800",
+    "totalMoney": "10000",
+    "supporters": "102",
+    "project": "BUILD HOUSE",
+    "title": "South Sudan, 'Village Student' waiting for support"
+  },
+  {
+    "programName": "Help for refugees people",
+    "image": "lib/images/help_refugees.jpg",
+    "left": "8",
+    "percent": 0.62,
+    "collectedMoney": "7320",
+    "totalMoney": "12000",
+    "supporters": "85",
+    "project": "HELP REFUGEE",
+    "title": "South Sudan, 'Village Student' waiting for support"
+  }
+]
